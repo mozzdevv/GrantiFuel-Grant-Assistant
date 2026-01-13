@@ -1,7 +1,5 @@
 # GrantiFuel - AI-Powered Grant Assistant
 
-![GrantiFuel Logo](generated-icon.png)
-
 ## Overview
 
 GrantiFuel is a specialized AI-powered platform designed to simplify grant application processes for musicians and artists. By leveraging intelligent technology and intuitive discovery tools, GrantiFuel helps creative professionals find, prepare, and track grant opportunities tailored to their unique profiles.
